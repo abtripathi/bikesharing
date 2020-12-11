@@ -77,12 +77,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# udacity
+.udacity-pa
 # some example files
 
 example_submission.csv
 README1.md
 test_census.csv
 DSND_Term1/*
+first_neural_network-result-288505.json
 
 # IPython
 profile_default/
